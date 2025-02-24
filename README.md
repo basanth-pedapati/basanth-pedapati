@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @basanth-pedapati
-- 👀 I’m interested in building awesome sites and apps for the internet.
+- 👀 I build awesome sites and apps for the internet.
 - 🌱 I’m currently learning how to make us of AI tools efficiently.
 - 💞️ I’m actively to contributing to open source projects.
 
